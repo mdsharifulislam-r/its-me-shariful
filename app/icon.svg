@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Background Container -->
+  <rect width="512" height="512" fill="#0d1b2a"/>
+  
+  <!-- Rounded Square Card -->
+  <rect x="32" y="32" width="448" height="448" rx="96" ry="96" fill="#000000"/>
+  
+  <!-- Letter S -->
+  <text 
+    x="256" 
+    y="360" 
+    font-family="Arial Black, Impact, 'Arial Rounded MT Bold', sans-serif" 
+    font-size="340" 
+    font-weight="900" 
+    fill="#ffffff" 
+    text-anchor="middle">S</text>
+</svg>

@@ -9,7 +9,7 @@ export const profile = {
     "Backend Developer with expertise in NestJS, Express.js, TypeScript, MongoDB, MySQL, Redis, Docker, AWS, and microservices architecture. Experienced in building scalable backend systems, APIs, payment integrations, caching strategies, DevOps workflows, and cloud-based applications.",
   social: {
     github: "https://github.com/mdsharifulislam-r",
-    linkedin: "https://www.linkedin.com/in/md-shariful-islam-160311229/",
+    linkedin: "https://www.linkedin.com/in/md-shariful-islam-2a8b40439/",
   },
 };
 
@@ -17,7 +17,7 @@ export const experience = [
   {
     id: "01",
     role: "Backend Developer",
-    company: "Betopia Ltd",
+    company: "Dream71",
     period: "2025 - Present",
     description:
       "Developing scalable backend applications using NestJS, Express.js, TypeScript, MongoDB, MySQL, Redis, Docker, and AWS. Responsible for system architecture, API development, performance optimization, payment integrations, cloud deployment, and microservices-based solutions.",

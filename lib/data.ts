@@ -17,7 +17,7 @@ export const experience = [
   {
     id: "01",
     role: "Backend Developer",
-    company: "Dream71",
+    company: "SparkTech Agency",
     period: "2025 - Present",
     description:
       "Developing scalable backend applications using NestJS, Express.js, TypeScript, MongoDB, MySQL, Redis, Docker, and AWS. Responsible for system architecture, API development, performance optimization, payment integrations, cloud deployment, and microservices-based solutions.",
